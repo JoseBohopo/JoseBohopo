@@ -10,9 +10,7 @@
   <li>💻Electronic Technician Specialist.</li>
   <li>👔 Background in Retail and Pharmaceutical sector.</li>
   <li>✨Striving towards technical excellence.</li>
-
 </hr>
-
   <li>🔭 I’m currently working on learn new skills.</li>
   <li>🌱 I’m currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
   <li>👯 I’m looking to collaborate on develoment projects that increase my knowledge.</li>
