@@ -15,7 +15,6 @@
   <li>🌱 I’m currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
   <li>👯 I’m looking to collaborate on develoment projects that increase my knowledge.</li>
   <li> 💬 Ask me about anything.</li>
-  <li>🌱 I’m currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
   <li> 📫 How to reach me: rabohopo@gmail.com</li>
   <li>⚡ Fun fact: Do your best and let destiny do the rest.</li>
 </ul>
