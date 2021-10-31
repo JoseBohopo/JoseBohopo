@@ -6,10 +6,10 @@
 <h2>My name is Jose Ramon Bohopo, and I'm a full stack developer.</h2>
 
 <ul>
-  <li>👩‍💻 Ironhack Web Development Bootcamp Alumni</li>
-  <li>💻Electronic Technician Specialist</li>
-  <li>👔 Background in Retail and Pharmaceutical sector</li>
-  <li>✨Striving towards technical excellence</li>
+  <li>👩‍💻 Ironhack Web Development Bootcamp Alumni.</li>
+  <li>💻Electronic Technician Specialist.</li>
+  <li>👔 Background in Retail and Pharmaceutical sector.</li>
+  <li>✨Striving towards technical excellence.</li>
 
 </hr>
 
