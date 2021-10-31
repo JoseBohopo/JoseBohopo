@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://th.bing.com/th/id/R.a4ec55425b78380d7acb97360ec13463?rik=ltdiWSmNfFlFCg&pid=ImgRaw&r=0" alt="Welcome Image" style="max-width: 100%;">
+<img src="https://ak5.picdn.net/shutterstock/videos/31042105/thumb/11.jpg" alt="Welcome Image" style="max-width: 100%;">
 
 <!--
 **JoseBohopo/JoseBohopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
