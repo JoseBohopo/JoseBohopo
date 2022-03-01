@@ -3,7 +3,7 @@
 <img src="https://th.bing.com/th/id/OIP.86hOKldQ6-9wx22VQdqi4gHaEK?w=316&h=180&c=7&r=0&o=5&pid=1.7" alt="Welcome Image" style="max-width: 100%;">
 </hr>
 
-<h2>My name is Jose Ramon Bohopo, and I'm a full stack developer.</h2>
+<h2>My name is Jose Ramon Bohopo and I'm a full stack developer.</h2>
 
 <ul>
   <li>👩‍💻 Ironhack Web Development Bootcamp Alumni.</li>
@@ -11,7 +11,7 @@
   <li>👔 Background in Retail and Pharmaceutical sector.</li>
   <li>✨Striving towards technical excellence.</li>
 </hr>
-  <li>🔭 I’m currently working on learn new skills.</li>
+  <li>🔭 I’m currently working on Soamee.</li>
   <li>🌱 I’m currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
   <li>👯 I’m looking to collaborate on develoment projects that allow me to increase my knowledge.</li>
   <li> 💬 Ask me about anything.</li>
