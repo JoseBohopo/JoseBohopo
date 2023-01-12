@@ -23,7 +23,7 @@
   <li>🌍 Love for nature, hiking and cycling</li>
 </ol>
   
-    <img src="https://img.shields.io/badge/Linkedin-JoseBohopo-blue" href="www.linkedin.com/in/jose-bohopo" />
+  <a href="www.linkedin.com/in/jose-bohopo">https://img.shields.io/badge/Linkedin-JoseBohopo-blue</a>
   <p><b>E-mail:</b> 📫 rabohopo@gmail.com</p>
 </div>
 
