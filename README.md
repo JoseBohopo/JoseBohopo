@@ -11,7 +11,7 @@
 <div display="flex" width="100%" justify-content="space-between">
 
 <ol>
-  <li>💫🏾‍🚀 Collaboration with Adobe</li>
+  <li>📡 Collaboration with Adobe</li>
   <li>🧑🏾‍🚀 Mainly Front-end however with a back skills glint</li>
   <li>🌱 I’m currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
   <li>👯 I’m looking to collaborate on develoment projects that allow me to grow professionally and develop my tech and social skills</li>
