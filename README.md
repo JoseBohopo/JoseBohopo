@@ -12,12 +12,11 @@
 
 <ol>
   <li>📡 Collaboration with Adobe</li>
-  <li>🧑🏾‍🚀 Mainly Front-end however with a back skills glint</li>
-  <li>🌱 I’m currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
-  <li>👯 I’m looking to collaborate on develoment projects that allow me to grow professionally and develop my tech and social skills</li>
-  <li>💬 Ask me about anything</li>
   <li>🔭 Currently working at Soamee</li>
-  <li>🔭 Collaboration with Adobe</li>
+  <li>🧑🏾‍🚀 Mainly Front-end however with a back skills glint</li>
+  <li>🌱 Currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
+  <li>👯 Looking to collaborate on develoment projects that allow me to grow professionally and develop my tech and social skills</li>
+  <li>💬 Ask me about anything</li>
   <li>👩‍💻 Ironhack Web Development Bootcamp Alumni</li>
   <li>💻 Electronic Technician Specialist</li>
   <li>👔 Background in Retail and Pharmaceutical sector</li>
