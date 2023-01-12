@@ -18,7 +18,7 @@
   <li>💻 Electronic Technician Specialist</li>
   <li>👔 Background in Retail and Pharmaceutical sector</li>
   <li>✨ Striving towards technical excellence</li>
-  <li>🌱 Always learning</li>
+  <li>🌱 Always hands on learning</li>
   <li>💖 Code refactoring and clean code</li>
   <li>🌍 Love for nature, hiking and cycling</li>
 </ol>
