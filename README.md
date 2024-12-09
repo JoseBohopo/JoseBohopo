@@ -26,7 +26,7 @@
 </ol>
   
   <a target="_blank" href="www.linkedin.com/in/jose-bohopo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <p><b>E-mail:</b> 📫 rabohopo@gmail.com</p>
+  <p><b>E-mail:</b> 📫 jr.bohopo@gmail.com</p>
 </div>
 
 <h3>Languages</h3>
