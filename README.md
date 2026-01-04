@@ -1,37 +1,22 @@
 ![Github Image  (1)](https://user-images.githubusercontent.com/86661518/212115738-41ba033b-069e-493c-8827-0a715eb8f060.jpeg)
 
 
-### Jose Ramon Bohopo 👋
-</hr>
-<h2> Front-end Developer</h2>
+## Jose Ramón Bohopo — Frontend Engineer
 
+I build *greenfield* web applications with *React, TypeScript, and Next.js*, with a focus on:
+- UI architecture (component boundaries, vertical slices)
+- testing (React Testing Library)
+- performance & accessibility basics
+- maintainable, production-style code
 
-<h2>About me</h2>
-</hr>
-<div display="flex" width="100%" justify-content="space-between">
+### Featured project
+- *GreenOps Dashboard* — Next.js (App Router) + TypeScript dashboard MVP with documented architecture decisions and a clear quality bar.  
+  → Repo: https://github.com/JoseBohopo/GreenOps-Dashboard
 
-<ol>
-  <li>📡 Collaboration with Adobe</li>
-  <li>🔭 Currently working at Babel</li>
-  <li>🧑🏾‍🚀 Frontend developer</li>
-  <li>🌱 Currently learning React, React Hooks, Native, Redux, Next.js, Typescript.</li>
-  <li>👯 Looking to collaborate on develoment projects that allow me to grow professionally and develop my tech and social skills</li>
-  <li>💬 Ask me about anything</li>
-  <li>👩‍💻 Ironhack Web Development Bootcamp Alumni</li>
-  <li>💻 High National Diploma in electronics and comunications</li>
-  <li>✨ Striving towards technical excellence</li>
-  <li>🌱 Always hands on learning</li>
-  <li>💖 Code refactoring and clean code</li>
-  <li>🌍 Love for nature, hiking and cycling</li>
-</ol>
-  
-  <a target="_blank" href="www.linkedin.com/in/jose-bohopo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <p><b>E-mail:</b> 📫 jr.bohopo@gmail.com</p>
-</div>
+### Tech
+React • TypeScript • Next.js • Testing Library • CSS/SCSS • Tailwind • Git
 
-<h3>Languages</h3>
-</hr>
-
+📍 Madrid, Spain • 🌍 Open to remote roles • 🔗 LinkedIn: https://www.linkedin.com/in/jose-bohopo
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 
 <h3>Front-end Stack</h3>
